@@ -1,0 +1,19 @@
+{
+  "name": "fun_with_algolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhoaiphuoc1995/fun_with_algolia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhoaiphuoc1995/fun_with_algolia/issues"
+  },
+  "homepage": "https://github.com/nguyenhoaiphuoc1995/fun_with_algolia#readme"
+}
