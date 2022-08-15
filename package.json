@@ -1,10 +1,11 @@
 {
   "name": "fun_with_algolia",
   "version": "1.0.0",
-  "description": "",
+  "description": "- There are many search engines that you can use to scale up your system full-text search ability and search-speed optimization, for example Algolia. This topics is to express my experience of using Algolia.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/nguyenhoaiphuoc1995/fun_with_algolia/issues"
   },
-  "homepage": "https://github.com/nguyenhoaiphuoc1995/fun_with_algolia#readme"
+  "homepage": "https://github.com/nguyenhoaiphuoc1995/fun_with_algolia#readme",
+  "dependencies": {
+    "algoliasearch": "^4.14.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.3",
+    "swagger-ui-express": "^4.5.0",
+    "uuid": "^8.3.2"
+  }
 }

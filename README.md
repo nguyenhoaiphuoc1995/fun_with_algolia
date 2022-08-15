@@ -18,3 +18,11 @@ b) Show off some popular Customizations of Algolia:
 + Sorting Feature.
 + Full-text search feature. 
 + Filter feature.
+
+- Where to get JSON data to test?
+https://www.mockaroo.com/
+
+c) For revelant sort:
+- If you don't heavily focus on the custom ranking point, you should delete the attributes in the tab Configuration => Ranking and Sorting for your system to be able to enable fulltext-search feature.
+
+d) 
